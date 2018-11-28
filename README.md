@@ -2,6 +2,7 @@
 
 > 基于`create-react-app`
 
+- 升级`webpack4`，升级`babel7`
 - 支持`dll`打包，优化编译速度
 - 完善`eslint`配置
 - 支持装饰器写法
